@@ -3,3 +3,4 @@
 - 👀 I’m interested in special electronic components design and PCBAs.
 - ✨ I’m looking to collaborate on automative, medical, industrial projects, which requires both hardware and software development skills.
 - 📫 How to reach me: sales@everstars.com.cn
+- 🌐 Visit us at: www.everstars.com
